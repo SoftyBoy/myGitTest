@@ -1,4 +1,7 @@
 #include<iostream>
+using namespace std;
 {
-    cout
-
+    cout<<"Hello Fullhan!"<<endl;
+    system("pause");
+    return 0;
+}
